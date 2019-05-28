@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F5997912-C396-6D6B-4198-23DB005CC263}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraAutoFocusScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RingChangerController.cs" Line="7" Column="2" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="94" Column="33" />
+      <File FileName="Assets/Scripts/SceneNavigator.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/CameraRotationScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RingsManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraAutoFocusScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JewProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraAutoFocusScript.cs" selected="True" />
+              </Node>
+              <Node name="Vuforia" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" line="149" offsetX="536" offsetY="2290" expression="_currentRingIndex" liveUpdate="False" />
+    <Watch file="../../../Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" line="150" offsetX="540" offsetY="2332" expression="_previousRingIndex" liveUpdate="False" />
+    <Watch file="../../../Assets/Scripts/RotationManager.cs" line="20" offsetX="280" offsetY="285" expression="_isRotating" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrii/JewProject/Assets/Scripts/RotationManager.cs" relfile="Assets/Scripts/RotationManager.cs" line="37" column="1" />
+      <Breakpoint file="/Users/andrii/JewProject/Assets/Scripts/RotationManager.cs" relfile="Assets/Scripts/RotationManager.cs" line="45" column="1" />
+      <Breakpoint file="/Users/andrii/JewProject/Assets/RingsManagerScript.cs" relfile="Assets/RingsManagerScript.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

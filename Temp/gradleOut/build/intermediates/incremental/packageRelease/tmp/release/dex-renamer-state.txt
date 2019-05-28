@@ -1,0 +1,4 @@
+#Tue May 28 19:51:05 EEST 2019
+base.0=/Users/andrii/JewProject/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
